@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title> Giới Thiệu Chung </title>
+</head>
+<body>
+    <h1 style="color: darkcyan; text-align: left;"> Giới Thiệu chung </h1>
+    <div style="background-image: url('anh1.png'); background-size: cover; width: 100% height 200px; ">
+    <div style=" text-align: right; height: 200px; padding: 50px 100px;color: #ffffff; size: 24pt; font-family: Georgia, 'Times New Roman', Times, serif;"> <p> Họ tên : Nguyễn Văn A <br> <br> Nơi sinh : Thành Phố Hồ Chí Minh <br> <br> Số Điện Thoại : 090-xxxx-xxx <br> <br> Email : nguyenvana@gmail.com </p>
+    </div>
+    </div>
+    <h1 style="color: darkcyan; text-align: left;"> Sở Thích </h1>
+    <div style="border: 1px solid #e5e5e5; background-color: #ffffff; height: 30px; width: 50%; border-radius: 10px ; margin: 20px;">Môn Học : Tin Học, Toán Ngoại Ngữ 
+    </div> 
+    <div style="border: 1px solid #e5e5e5; background-color: #ffffff; height: 30px; width: 50%; border-radius: 10px ; margin: 20px;">Thể Thao: Bóng Đá , Võ Thuật 
+    </div>    
+    <div style="border: 1px solid #e5e5e5; background-color: #ffffff; height: 30px; width: 50%; border-radius: 10px ; margin: 20px;">Đọc Sách Xem Phim 
+    </div>
+    <div style="border: 1px solid #e5e5e5; background-color: #ffffff; height: 500px;width: 90%; border-radius: 10px;margin: 20px;">
+    <h1 style="color: darkcyan; text-align: left;">Nội dung yêu thích</h1>  
+    <h2>Hình ảnh</h2>
+    <div style="display: flex ;width: 30%; height:200px; gap: 20px;border-radius: 10px;">
+        <img src="cảnh biển.jpg" alt="ảnh">
+        <img src="ảnh biển.jpg" alt="ảnh2">
+        <img src="cảnh đường.jpg!d" alt="ảnh3">
+
+    </div> 
+    </div>    
+</body>
